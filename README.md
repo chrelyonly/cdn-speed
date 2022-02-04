@@ -1,4 +1,2 @@
 # https://chrelyonly.cn
-我的个人主页
-
-感谢 https://seir.in 提供的源码!
+我的cdn链接 https://cdn.jsdelivr.net/gh/chrelyonly/cdn-speed@master/
